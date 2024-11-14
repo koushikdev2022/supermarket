@@ -1,0 +1,13 @@
+PORT = 3000
+
+NODE_ENV = development
+
+DB_USERNAME=your_database_username
+DB_PASSWORD=your_database_password
+DB_DATABASE=your_database_name
+DB_CLIENT=your_database_client 
+DB_HOST=your_database_host
+
+MONGODB_CONNECT_URL = mongodb://localhost:27017/trive_card_mongo
+
+SERVER_URL=http://localhost:3000
